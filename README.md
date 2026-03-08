@@ -133,13 +133,6 @@ Perfect for:
 
 ---
 
-## 🔥 LinkedIn Post Idea
-
-"I built an AI Data Visualization Agent that analyzes datasets and automatically generates insights."
-
-Upload charts + GitHub repo.
-
-This kind of project gets **high engagement in the data community**.
 
 ---
 
